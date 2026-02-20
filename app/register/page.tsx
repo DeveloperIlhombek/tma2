@@ -413,7 +413,7 @@ export default function RegisterPage() {
 					</div>
 				</div>
 			)}
-
+			{/* o'zgarish */}
 			<style jsx>{`
 				@keyframes slideIn {
 					from {
